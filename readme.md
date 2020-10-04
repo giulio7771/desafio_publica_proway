@@ -1,4 +1,5 @@
 Para rodar o projeto:
+    
     1 - Abra o terminal do Git em sua máquina no local que deseja fazer download do projeto, e rode o comando
     git clone https://github.com/giulio7771/desafio_publica_proway.git
 
@@ -11,7 +12,9 @@ Para rodar o projeto:
 Documentação:
     
     O projeto está se baseando na arquitetura MVC, porém é uma aplicação desktop, e não está sendo utilizado banco de dados.
-    Os teste unitários se encontram em Pacotes de Testes/<pacote default>. Existem duas classes de teste: MatchTest e SeassonTest.
+    
+    Os teste unitários se encontram em Pacotes de Testes/<pacote default>. Existem duas classes de teste: MatchTest e SeassonTest. Para executá-los basta abrir o respectivo arquivo de testes, botão direito > Testar Arquivo, ou usar o atalho: Ctrl F6.
+
     A interface gráfica foi feita usando o JFrame do Java Swing, que está no pacote view. A interface se comunica apenas com SeassonController. 
     As duas requisições que a interface faz são: addMatch, para adicionar uma nova partida de Marta, e getHistoryReport, para obter o relatório que é impresso na tela de Histórico.
 
