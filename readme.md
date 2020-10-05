@@ -1,3 +1,9 @@
+Sobre o Projeto:
+
+    Este projeto é a resolução do desafio proposto pela Proway em parceria com a Pública, como processo seletivo para o programa de capacitação da Proway (OUT 2020).
+    O problema soi solucionado utilizando linguagem Java 8.
+    Softwares utilizados: Git; NetBeans 8.2.
+
 Para rodar o projeto:
     
     1 - Abra o terminal do Git em sua máquina no local que deseja fazer download do projeto, e rode o comando
